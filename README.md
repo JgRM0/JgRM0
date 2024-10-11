@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/JgRM0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JgRM0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JgRM0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JgRM0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato comigo!
  
 <div>  
   <a href = "mailto:joaogabrielrinaldimenzes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
