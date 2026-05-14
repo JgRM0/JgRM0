@@ -1,7 +1,10 @@
-## Bem-vindo(a) ao perfil do JgRM0 😁
+## Bem-vindo(a) ao perfil do JgRM0 🖥️
+
+Sou João Gabriel, de Fortaleza-CE. Trabalho no grupo SL como Assistente de Negócios e curso Ciência da Computação na UNIFOR, no período da noite.
+Atualmente venho desenvolvendo automações e RPAs em Python para resolver processos repetitivos no dia a dia corporativo, além de auxiliar na implantação do novo ERP principal da empresa.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <br>
